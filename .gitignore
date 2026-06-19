@@ -1,0 +1,4 @@
+# Never publish the plaintext source — only the encrypted index.html ships.
+onepager.html
+src.html
+.staticrypt.json
